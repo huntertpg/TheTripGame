@@ -1,0 +1,984 @@
+﻿Log file open, 12/10/17 13:56:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheTrip
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2100469892) SRandInit(-2100469892).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.253992
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: G:/UE4/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.10-19.56.20:514][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.10-19.56.20:514][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.10-19.56.20:524][  0]LogInit: Computer: DESKTOP-THJFUOK
+[2017.12.10-19.56.20:524][  0]LogInit: User: barna
+[2017.12.10-19.56.20:524][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.10-19.56.20:524][  0]LogInit: High frequency timer resolution =3.415987 MHz
+[2017.12.10-19.56.20:525][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2017.12.10-19.56.20:525][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.10-19.56.20:525][  0]LogMemory: Process Physical Memory: 280.39 MB used, 280.39 MB peak
+[2017.12.10-19.56.20:525][  0]LogMemory: Process Virtual Memory: 274.41 MB used, 274.41 MB peak
+[2017.12.10-19.56.20:525][  0]LogMemory: Physical Memory: 11503.17 MB used,  12942.48 MB free, 24445.65 MB total
+[2017.12.10-19.56.20:525][  0]LogMemory: Virtual Memory: 728.13 MB used,  12942.48 MB free, 134217728.00 MB total
+[2017.12.10-19.56.20:643][  0]LogInit: Using OS detected language (en-US).
+[2017.12.10-19.56.20:643][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.10-19.56.20:646][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.10-19.56.21:057][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.10-19.56.21:359][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.10-19.56.21:419][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780 Ti' (Feature Level 11_0)
+[2017.12.10-19.56.21:419][  0]LogD3D11RHI:       3039/0/12222 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.10-19.56.21:425][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.12.10-19.56.21:425][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.12.10-19.56.21:426][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.10-19.56.21:427][  0]LogD3D11RHI:       0/0/12222 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.10-19.56.21:427][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.10-19.56.21:470][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.10-19.56.21:470][  0]LogD3D11RHI:     GPU DeviceId: 0x100a (for the marketing name, search the web for "GPU Device Id")
+[2017.12.10-19.56.21:470][  0]LogWindows: EnumDisplayDevices:
+[2017.12.10-19.56.21:470][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780 Ti' (P:1 D:1)
+[2017.12.10-19.56.21:470][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2017.12.10-19.56.21:471][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2017.12.10-19.56.21:471][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2017.12.10-19.56.21:471][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2017.12.10-19.56.21:471][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.12.10-19.56.21:471][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.12.10-19.56.21:471][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.10-19.56.21:471][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780 Ti
+[2017.12.10-19.56.21:471][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.10-19.56.21:471][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.10-19.56.21:471][  0]LogRHI: Texture pool is 2127 MB (70% of 3039 MB)
+[2017.12.10-19.56.21:504][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.10-19.56.21:519][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.10-19.56.21:566][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Intermediate/Shaders/WorkingDirectory/180492/).
+[2017.12.10-19.56.21:566][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/barna/AppData/Local/Temp/UnrealShaderWorkingDir/60646F3A42CE31212D15659E1AFEE3D7/'.
+[2017.12.10-19.56.21:566][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.10-19.56.22:718][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.10-19.56.22:756][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.10-19.56.22:793][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.10-19.56.22:831][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.10-19.56.22:869][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.10-19.56.22:907][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.10-19.56.22:946][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.10-19.56.22:984][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.10-19.56.23:015][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.10-19.56.23:054][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.10-19.56.23:090][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.10-19.56.23:127][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.10-19.56.23:165][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.10-19.56.23:207][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.10-19.56.23:293][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.10-19.56.23:293][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.10-19.56.23:335][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.10-19.56.23:365][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.10-19.56.23:446][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.10-19.56.23:467][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.10-19.56.23:510][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.10-19.56.23:550][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.10-19.56.23:587][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.10-19.56.23:625][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.10-19.56.23:625][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.10-19.56.23:956][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.10-19.56.24:031][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/barna/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.10-19.56.24:031][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/barna/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.10-19.56.24:031][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.10-19.56.24:031][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.10-19.56.24:031][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.10-19.56.24:031][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.10-19.56.24:047][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.10-19.56.24:060][  0]LogDerivedDataCache: Using Local data cache path C:/Users/barna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.10-19.56.24:075][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.10-19.56.24:075][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.10-19.56.24:076][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.10-19.56.24:076][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.10-19.56.24:414][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.10-19.56.24:667][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.10-19.56.24:695][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.10-19.56.24:695][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.10-19.56.24:695][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.10-19.56.24:695][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.10-19.56.24:695][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.10-19.56.24:721][  0]LogNetVersion: TheTrip , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1002915661)
+[2017.12.10-19.56.24:872][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2017.12.10-19.56.25:354][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.057305 seconds
+[2017.12.10-19.56.25:362][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.10-19.56.25:362][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.10-19.56.25:362][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.10-19.56.25:396][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.10-19.56.27:724][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.10-19.56.27:770][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.10-19.56.28:350][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.10-19.56.28:705][  0]SourceControl: Source control is disabled
+[2017.12.10-19.56.28:705][  0]SourceControl: Source control is disabled
+[2017.12.10-19.56.28:743][  0]SourceControl: Source control is disabled
+[2017.12.10-19.56.28:781][  0]SourceControl: Source control is disabled
+[2017.12.10-19.56.29:422][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.10-19.56.29:626][  0]LogOcInput: OculusInput pre-init called
+[2017.12.10-19.56.29:871][  0]LogEngine: Initializing Engine...
+[2017.12.10-19.56.30:040][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2017.12.10-19.56.30:261][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.10-19.56.30:261][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.10-19.56.30:359][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.10-19.56.30:398][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.10-19.56.30:419][  0]LogInit: FAudioDevice initialized.
+[2017.12.10-19.56.30:741][  0]LogDerivedDataCache: Saved boot cache 0.32s 78MB C:/Users/barna/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.10-19.56.30:758][  0]LogInit: Texture streaming: Enabled
+[2017.12.10-19.56.30:825][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.10-19.56.30:975][  0]LogInit: Transaction tracking system initialized
+[2017.12.10-19.56.31:201][  0]BlueprintLog: New page: Editor Load
+[2017.12.10-19.56.31:892][  0]LocalizationService: Localization service is disabled
+[2017.12.10-19.56.32:435][  0]LogConsoleResponse: Display: 
+[2017.12.10-19.56.32:595][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.10-19.56.32:595][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.10-19.56.32:595][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.10-19.56.33:500][  0]LogFileCache: Scanning file cache for directory 'G:/Dauntless/Games/The Trip/TheTrip/TheTrip/Content/' took 0.01s
+[2017.12.10-19.56.33:500][  0]SourceControl: Source control is disabled
+[2017.12.10-19.56.33:501][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 G:/UE4/UE_4.18/FeaturePacks/StarterContent.upack)
+[2017.12.10-19.56.33:575][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.12.10-19.56.33:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.12.10-19.56.33:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.12.10-19.56.33:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.12.10-19.56.33:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.12.10-19.56.33:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.12.10-19.56.33:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.12.10-19.56.33:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.12.10-19.56.33:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.12.10-19.56.33:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.12.10-19.56.33:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.12.10-19.56.33:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.12.10-19.56.33:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.12.10-19.56.33:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.12.10-19.56.33:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.12.10-19.56.33:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.12.10-19.56.33:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.12.10-19.56.34:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.12.10-19.56.34:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Fire01.uasset"
+[2017.12.10-19.56.34:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.12.10-19.56.34:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.12.10-19.56.34:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.12.10-19.56.34:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Light01.uasset"
+[2017.12.10-19.56.34:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.12.10-19.56.34:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Light02.uasset"
+[2017.12.10-19.56.34:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.12.10-19.56.34:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.12.10-19.56.34:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.12.10-19.56.34:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.12.10-19.56.34:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.12.10-19.56.34:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.12.10-19.56.34:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.12.10-19.56.34:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.12.10-19.56.34:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.12.10-19.56.34:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Steam01.uasset"
+[2017.12.10-19.56.34:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.12.10-19.56.34:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.12.10-19.56.34:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.12.10-19.56.34:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.12.10-19.56.34:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.12.10-19.56.34:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.12.10-19.56.34:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.12.10-19.56.34:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.12.10-19.56.34:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.12.10-19.56.34:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.12.10-19.56.34:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.12.10-19.56.34:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.12.10-19.56.34:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.12.10-19.56.34:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.12.10-19.56.34:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.12.10-19.56.35:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.12.10-19.56.35:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.12.10-19.56.37:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.12.10-19.56.37:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.12.10-19.56.37:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2017.12.10-19.56.37:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.12.10-19.56.37:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2017.12.10-19.56.37:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Maps/StarterMap.umap"
+[2017.12.10-19.56.37:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2017.12.10-19.56.37:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.12.10-19.56.37:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.12.10-19.56.37:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.12.10-19.56.37:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.12.10-19.56.37:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.12.10-19.56.37:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.12.10-19.56.37:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.12.10-19.56.38:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.12.10-19.56.38:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.12.10-19.56.38:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.12.10-19.56.38:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.12.10-19.56.38:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.12.10-19.56.38:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.12.10-19.56.38:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.12.10-19.56.38:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.12.10-19.56.38:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.12.10-19.56.38:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.12.10-19.56.38:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.12.10-19.56.38:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.12.10-19.56.38:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.12.10-19.56.38:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.12.10-19.56.38:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.12.10-19.56.38:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.12.10-19.56.38:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.12.10-19.56.38:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.12.10-19.56.38:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.12.10-19.56.38:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.12.10-19.56.38:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.12.10-19.56.38:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.12.10-19.56.38:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.12.10-19.56.38:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.12.10-19.56.38:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.12.10-19.56.38:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.12.10-19.56.38:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.12.10-19.56.38:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.12.10-19.56.38:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.12.10-19.56.38:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.12.10-19.56.38:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.12.10-19.56.38:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.12.10-19.56.38:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.12.10-19.56.38:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.12.10-19.56.38:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.12.10-19.56.38:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.12.10-19.56.38:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.12.10-19.56.38:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.12.10-19.56.38:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.12.10-19.56.38:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.12.10-19.56.38:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.12.10-19.56.38:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.12.10-19.56.39:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.12.10-19.56.39:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.12.10-19.56.39:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.12.10-19.56.39:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.12.10-19.56.39:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.12.10-19.56.39:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.12.10-19.56.39:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.12.10-19.56.39:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.12.10-19.56.39:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.12.10-19.56.39:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.12.10-19.56.39:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.12.10-19.56.39:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.12.10-19.56.39:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.12.10-19.56.39:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.12.10-19.56.39:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.12.10-19.56.39:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_Door.uasset"
+[2017.12.10-19.56.39:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.12.10-19.56.39:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.12.10-19.56.39:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.12.10-19.56.39:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.12.10-19.56.39:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.12.10-19.56.39:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.12.10-19.56.39:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.12.10-19.56.39:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.12.10-19.56.39:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.12.10-19.56.39:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.12.10-19.56.39:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.12.10-19.56.39:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.12.10-19.56.40:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.12.10-19.56.40:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.12.10-19.56.40:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.12.10-19.56.40:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.12.10-19.56.40:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.12.10-19.56.40:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.12.10-19.56.40:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.12.10-19.56.40:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.12.10-19.56.40:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.12.10-19.56.40:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.12.10-19.56.40:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.12.10-19.56.40:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.12.10-19.56.40:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.12.10-19.56.40:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.12.10-19.56.40:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.12.10-19.56.40:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.12.10-19.56.40:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.12.10-19.56.40:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.12.10-19.56.40:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.12.10-19.56.40:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.12.10-19.56.40:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.12.10-19.56.40:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.12.10-19.56.40:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.12.10-19.56.40:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.12.10-19.56.40:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.12.10-19.56.40:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.12.10-19.56.40:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.12.10-19.56.40:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.12.10-19.56.40:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.12.10-19.56.40:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.12.10-19.56.40:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.12.10-19.56.40:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.12.10-19.56.40:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.12.10-19.56.40:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.12.10-19.56.41:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.12.10-19.56.41:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.12.10-19.56.41:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.12.10-19.56.41:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.12.10-19.56.41:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.12.10-19.56.41:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.12.10-19.56.41:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.12.10-19.56.41:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.12.10-19.56.41:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.12.10-19.56.41:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.12.10-19.56.41:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.12.10-19.56.41:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.12.10-19.56.41:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.12.10-19.56.41:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.12.10-19.56.41:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.12.10-19.56.41:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.12.10-19.56.42:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.12.10-19.56.42:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.12.10-19.56.42:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.12.10-19.56.42:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.12.10-19.56.42:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.12.10-19.56.42:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.12.10-19.56.42:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.12.10-19.56.42:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.12.10-19.56.43:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.12.10-19.56.43:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.12.10-19.56.43:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.12.10-19.56.43:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.12.10-19.56.43:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.12.10-19.56.43:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.12.10-19.56.43:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.12.10-19.56.43:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.12.10-19.56.43:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.12.10-19.56.44:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.12.10-19.56.44:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.12.10-19.56.44:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.12.10-19.56.44:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.12.10-19.56.44:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.12.10-19.56.44:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.12.10-19.56.44:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.12.10-19.56.44:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.12.10-19.56.44:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.12.10-19.56.44:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.12.10-19.56.44:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.12.10-19.56.44:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.12.10-19.56.44:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.12.10-19.56.44:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.12.10-19.56.44:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.12.10-19.56.44:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.12.10-19.56.44:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.12.10-19.56.45:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.12.10-19.56.45:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.12.10-19.56.45:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.12.10-19.56.45:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.12.10-19.56.46:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.12.10-19.56.46:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.12.10-19.56.46:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.12.10-19.56.46:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.12.10-19.56.46:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.12.10-19.56.46:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.12.10-19.56.46:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.12.10-19.56.47:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.12.10-19.56.47:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.12.10-19.56.47:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.12.10-19.56.47:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.12.10-19.56.47:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.12.10-19.56.47:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.12.10-19.56.48:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.12.10-19.56.48:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.12.10-19.56.48:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.12.10-19.56.48:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.12.10-19.56.48:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.12.10-19.56.48:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.12.10-19.56.48:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.12.10-19.56.48:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.12.10-19.56.48:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.12.10-19.56.48:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.12.10-19.56.48:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.12.10-19.56.48:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.12.10-19.56.48:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.12.10-19.56.48:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.12.10-19.56.48:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.12.10-19.56.48:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.12.10-19.56.48:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.12.10-19.56.48:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.12.10-19.56.48:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.12.10-19.56.49:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.12.10-19.56.49:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.12.10-19.56.49:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.12.10-19.56.49:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.12.10-19.56.49:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.12.10-19.56.49:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.12.10-19.56.49:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.12.10-19.56.49:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.12.10-19.56.49:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.12.10-19.56.50:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.12.10-19.56.50:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.12.10-19.56.50:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.12.10-19.56.50:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.12.10-19.56.50:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.12.10-19.56.50:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.12.10-19.56.50:730][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2017.12.10-19.56.50:856][  0]LogSavePackage: Save=15.02ms
+[2017.12.10-19.56.50:856][  0]LogSavePackage: Moving '../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Saved/Floor_400x400E74533354F88916442D1C1980D2B3BBC.tmp' to '../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.12.10-19.56.50:861][  0]LogSavePackage: Display: Finished SavePackage ../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.12.10-19.56.50:861][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2017.12.10-19.56.50:866][  0]Cmd: MAP LOAD FILE="../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.10-19.56.50:867][  0]LightingResults: New page: Lighting Build
+[2017.12.10-19.56.50:914][  0]MapCheck: New page: Map Check
+[2017.12.10-19.56.50:914][  0]LightingResults: New page: Lighting Build
+[2017.12.10-19.56.51:635][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.10-19.56.51:645][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.10-19.56.51:657][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.10-19.56.51:707][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.202ms to complete.
+[2017.12.10-19.56.51:708][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.842
+[2017.12.10-19.56.51:993][  0]LogCollectionManager: Loaded 0 collections in 0.000777 seconds
+[2017.12.10-19.56.52:190][  0]LogFileCache: Scanning file cache for directory 'G:/Dauntless/Games/The Trip/TheTrip/TheTrip/Saved/Collections/' took 0.01s
+[2017.12.10-19.56.52:190][  0]LogFileCache: Scanning file cache for directory 'G:/Dauntless/Games/The Trip/TheTrip/TheTrip/Content/Developers/barna/Collections/' took 0.01s
+[2017.12.10-19.56.52:190][  0]LogFileCache: Scanning file cache for directory 'G:/Dauntless/Games/The Trip/TheTrip/TheTrip/Content/Collections/' took 0.01s
+[2017.12.10-19.56.52:190][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.10-19.56.52:198][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2363 classes and 519 folders.
+[2017.12.10-19.56.52:244][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.10-19.56.52:298][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.10-19.56.52:341][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.10-19.56.52:393][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.10-19.56.52:394][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.10-19.56.52:411][  0]LogSlate: Took 0.011949 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.10-19.56.52:551][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.10-19.56.52:597][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.10-19.56.52:730][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.10-19.56.52:730][  0]LogLoad: (Engine Initialization) Total time: 34.77 seconds
+[2017.12.10-19.56.52:730][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.10-19.56.52:730][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.10-19.56.52:742][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.10-19.56.52:835][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.10-19.56.52:915][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2017.12.10-19.56.55:041][  1]LogAssetRegistry: Asset discovery search completed in 30.1910 seconds
+[2017.12.10-19.56.55:043][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.10-19.56.55:043][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2017.12.10-20.04.45:655][810]SourceControl: On branch master
+[2017.12.10-20.04.45:655][810]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.10-20.04.45:655][810]SourceControl: Untracked files:
+[2017.12.10-20.04.45:655][810]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.10-20.04.45:655][810]SourceControl: 	TheTrip/
+[2017.12.10-20.04.45:655][810]SourceControl: nothing added to commit but untracked files present (use "git add" to track)
+[2017.12.10-20.05.14:141][850]SourceControl: fatal: G:/UE4/UE_4.18/Engine/Content/: 'G:/UE4/UE_4.18/Engine/Content/' is outside repository
+[2017.12.10-20.05.14:933][850]LogPackageName: Error: Illegal call to DoesPackageExist: '../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/TheTrip.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.12.10-20.05.15:165][850]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.231 s
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: 
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 810]
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: Illegal call to DoesPackageExist: '../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/TheTrip.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: Stack: 
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x0000000016E52786 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x0000000016BF123A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x0000000016C0B906 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x00000000164A8B45 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x000000003CFF76B2 UE4Editor-SourceControl.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x000000003CFF7847 UE4Editor-SourceControl.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x00000000051F85AE UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x00000000051B4475 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x00000000051B3A4D UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x00000000051C8AA4 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x000000002EC139D9 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x000000003CFFC5BC UE4Editor-SourceControl.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x00000000141C72BF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x0000000014A74926 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x0000000028EF5A26 UE4Editor.exe!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x0000000028F05430 UE4Editor.exe!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x0000000028F054AA UE4Editor.exe!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x0000000028F12379 UE4Editor.exe!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x0000000028F13D57 UE4Editor.exe!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x0000000092491FF4 KERNEL32.DLL!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: [Callstack] 0x00000000925BFFD1 ntdll.dll!UnknownFunction []
+[2017.12.10-20.05.15:165][850]LogOutputDevice: Error: 
+[2017.12.10-20.05.15:167][850]LogStats:                SubmitErrorReport -  0.000 s
+[2017.12.10-20.05.22:619][850]LogStats:                    SendNewReport -  7.452 s
+[2017.12.10-20.05.22:619][850]LogStats:             FDebug::EnsureFailed -  7.685 s
+[2017.12.10-20.06.01:300][850]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.12.10-20.06.01:991][850]SourceControl: [master c7f2ebf] Basic Project File Push
+[2017.12.10-20.06.01:991][850]SourceControl:  10 files changed, 30 insertions(+)
+[2017.12.10-20.06.01:991][850]SourceControl:  create mode 100644 TheTrip/Content/StarterContent/Maps/Advanced_Lighting.umap
+[2017.12.10-20.06.01:991][850]SourceControl:  create mode 100644 TheTrip/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset
+[2017.12.10-20.06.01:991][850]SourceControl:  create mode 100644 TheTrip/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.12.10-20.06.01:991][850]SourceControl:  create mode 100644 TheTrip/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2017.12.10-20.06.01:991][850]SourceControl:  create mode 100644 TheTrip/Content/StarterContent/Maps/StarterMap.umap
+[2017.12.10-20.06.01:991][850]SourceControl:  create mode 100644 TheTrip/Content/StarterContent/Maps/StarterMap_BuiltData.uasset
+[2017.12.10-20.06.01:991][850]SourceControl:  create mode 100644 TheTrip/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.12.10-20.06.01:991][850]SourceControl:  create mode 100644 TheTrip/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.12.10-20.06.01:991][850]SourceControl:  create mode 100644 TheTrip/Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2017.12.10-20.06.01:991][850]SourceControl:  create mode 100644 TheTrip/TheTrip.uproject
+[2017.12.10-20.06.02:005][850]SourceControl: Commited [master c7f2ebf] Basic Project File Push.
+[2017.12.10-20.06.50:739][ 29]SourceControl: fatal: G:/UE4/UE_4.18/Engine/Content/: 'G:/UE4/UE_4.18/Engine/Content/' is outside repository
+[2017.12.10-20.06.50:825][ 29]EditorErrors: Warning: No assets to check in!
+[2017.12.10-20.09.06:303][163]LogSlate: Took 0.024445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.10-21.01.52:729][697]Cmd: QUIT_EDITOR
+[2017.12.10-21.01.53:179][697]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.10-21.01.53:276][697]LogExit: Preparing to exit.
+[2017.12.10-21.01.54:240][697]LogDirectoryWatcher: A directory notification for 'G:/Dauntless/Games/The Trip/TheTrip/TheTrip/Content/' was aborted.
+[2017.12.10-21.01.54:548][697]LogExit: Editor shut down
+[2017.12.10-21.01.54:561][697]LogExit: Transaction tracking system shut down
+[2017.12.10-21.01.54:972][697]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.10-21.01.54:972][697]LogDirectoryWatcher: A directory notification for '../../../../../Dauntless/Games/The Trip/TheTrip/TheTrip/Content/' was aborted.
+[2017.12.10-21.01.54:972][697]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.10-21.01.54:973][697]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.10-21.01.54:973][697]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.10-21.01.54:973][697]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.10-21.01.54:973][697]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.10-21.01.56:520][697]LogExit: Object subsystem successfully closed.
+[2017.12.10-21.01.56:717][697]LogD3D11RHI: Shutdown
+[2017.12.10-21.01.56:728][697]LogD3D11RHI: CleanupD3DDevice
+[2017.12.10-21.01.56:747][697]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.10-21.01.57:677][697]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.12.10-21.01.57:677][697]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.10-21.01.57:686][697]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.10-21.01.57:698][697]LogDirectoryWatcher: A directory notification for 'G:/UE4/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.10-21.01.57:705][697]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.10-21.01.57:705][697]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.10-21.01.57:705][697]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.10-21.01.57:718][697]LogDirectoryWatcher: A directory notification for 'G:/Dauntless/Games/The Trip/TheTrip/TheTrip/Content/Collections/' was aborted.
+[2017.12.10-21.01.57:718][697]LogDirectoryWatcher: A directory notification for 'G:/Dauntless/Games/The Trip/TheTrip/TheTrip/Content/Developers/barna/Collections/' was aborted.
+[2017.12.10-21.01.57:718][697]LogDirectoryWatcher: A directory notification for 'G:/Dauntless/Games/The Trip/TheTrip/TheTrip/Saved/Collections/' was aborted.
+[2017.12.10-21.01.57:718][697]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.10-21.01.57:731][697]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.10-21.01.57:734][697]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.10-21.01.57:779][697]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.10-21.01.57:796][697]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.10-21.01.57:796][697]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.10-21.01.57:796][697]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.10-21.01.57:797][697]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.10-21.01.57:797][697]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.10-21.01.57:797][697]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.10-21.01.57:797][697]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.10-21.01.57:797][697]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.10-21.01.57:797][697]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.10-21.01.57:811][697]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.10-21.01.57:824][697]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.10-21.01.57:856][697]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.10-21.01.57:856][697]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.10-21.01.57:856][697]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.10-21.01.57:856][697]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.10-21.01.57:856][697]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.10-21.01.57:856][697]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.10-21.01.57:856][697]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.10-21.01.57:856][697]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.10-21.01.57:856][697]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.10-21.01.57:856][697]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.10-21.01.57:856][697]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.10-21.01.57:856][697]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.10-21.01.57:867][697]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.10-21.01.57:877][697]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.10-21.01.57:877][697]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.10-21.01.57:877][697]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.10-21.01.57:877][697]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.10-21.01.57:877][697]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.10-21.01.57:904][697]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.10-21.01.57:919][697]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.10-21.01.57:937][697]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.10-21.01.57:973][697]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.10-21.01.57:985][697]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.10-21.01.57:999][697]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.10-21.01.57:999][697]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.10-21.01.57:999][697]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.10-21.01.58:112][697]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.10-21.01.58:112][697]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.10-21.01.58:112][697]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.10-21.01.58:112][697]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.10-21.01.58:124][697]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.10-21.01.58:132][697]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.10-21.01.58:132][697]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.10-21.01.58:157][697]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.10-21.01.58:157][697]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.10-21.01.58:174][697]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.10-21.01.58:178][697]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.10-21.01.58:178][697]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.10-21.01.58:178][697]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.10-21.01.58:178][697]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.10-21.01.58:178][697]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.10-21.01.58:178][697]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.10-21.01.58:178][697]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.10-21.01.58:178][697]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.10-21.01.58:178][697]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.10-21.01.58:184][697]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.10-21.01.58:207][697]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.10-21.01.58:225][697]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.10-21.01.58:230][697]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.10-21.01.58:241][697]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.10-21.01.58:295][697]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.10-21.01.58:306][697]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.10-21.01.58:326][697]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.10-21.01.58:349][697]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.10-21.01.58:349][697]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.10-21.01.58:363][697]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.10-21.01.58:376][697]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.10-21.01.58:406][697]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.10-21.01.58:406][697]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.10-21.01.58:406][697]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.10-21.01.58:440][697]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.10-21.01.58:440][697]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.10-21.01.58:440][697]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.10-21.01.58:449][697]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.10-21.01.58:498][697]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.10-21.01.58:522][697]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.10-21.01.58:533][697]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.10-21.01.58:534][697]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.10-21.01.58:534][697]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.10-21.01.58:534][697]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.10-21.01.58:534][697]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.10-21.01.58:534][697]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.10-21.01.58:534][697]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.10-21.01.58:534][697]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.10-21.01.58:534][697]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.10-21.01.58:534][697]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.10-21.01.58:534][697]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.10-21.01.58:544][697]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.10-21.01.58:559][697]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.12.10-21.01.58:559][697]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.12.10-21.01.58:793][697]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.12.10-21.01.58:821][697]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.12.10-21.01.58:821][697]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.12.10-21.01.58:821][697]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.12.10-21.01.58:821][697]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.12.10-21.01.58:821][697]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.12.10-21.01.58:821][697]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.12.10-21.01.58:821][697]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.12.10-21.01.58:821][697]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.12.10-21.01.58:821][697]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.12.10-21.01.58:821][697]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.12.10-21.01.58:821][697]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.12.10-21.01.58:850][697]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.12.10-21.01.58:850][697]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.12.10-21.01.58:850][697]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.12.10-21.01.58:850][697]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.12.10-21.01.58:861][697]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.12.10-21.01.58:861][697]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.12.10-21.01.58:861][697]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.12.10-21.01.58:861][697]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.12.10-21.01.58:861][697]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.12.10-21.01.58:876][697]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.12.10-21.01.58:885][697]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.12.10-21.01.58:886][697]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.12.10-21.01.58:886][697]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.12.10-21.01.58:886][697]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.12.10-21.01.58:892][697]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.12.10-21.01.58:903][697]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.12.10-21.01.58:904][697]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.12.10-21.01.58:904][697]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.12.10-21.01.58:904][697]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.12.10-21.01.58:904][697]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.12.10-21.01.58:904][697]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.12.10-21.01.58:923][697]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.12.10-21.01.58:934][697]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.12.10-21.01.58:952][697]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.12.10-21.01.58:967][697]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.12.10-21.01.58:967][697]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.12.10-21.01.58:977][697]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.10-21.01.58:977][697]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.10-21.01.58:977][697]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.10-21.01.58:977][697]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.10-21.01.58:977][697]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.10-21.01.58:977][697]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.10-21.01.58:977][697]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.10-21.01.58:985][697]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.10-21.01.59:096][697]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.10-21.01.59:207][697]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.10-21.01.59:230][697]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.10-21.01.59:230][697]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.10-21.01.59:230][697]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.10-21.01.59:258][697]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.10-21.01.59:309][697]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.10-21.01.59:311][697]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.10-21.01.59:311][697]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.10-21.01.59:311][697]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.10-21.01.59:311][697]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.10-21.01.59:327][697]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.10-21.01.59:327][697]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.10-21.01.59:327][697]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.10-21.01.59:327][697]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.10-21.01.59:352][697]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.10-21.01.59:352][697]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.10-21.01.59:358][697]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.10-21.01.59:358][697]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.10-21.01.59:358][697]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.10-21.01.59:382][697]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.10-21.01.59:393][697]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.10-21.01.59:393][697]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.10-21.01.59:419][697]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.10-21.01.59:432][697]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.10-21.01.59:455][697]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.10-21.01.59:455][697]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.10-21.01.59:460][697]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.10-21.01.59:494][697]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.10-21.01.59:541][697]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.10-21.01.59:541][697]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.10-21.01.59:578][697]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.10-21.01.59:578][697]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.10-21.01.59:581][697]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.10-21.01.59:581][697]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.10-21.01.59:581][697]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.10-21.01.59:581][697]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.10-21.01.59:581][697]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.10-21.01.59:581][697]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.10-21.01.59:581][697]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.10-21.01.59:593][697]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.10-21.01.59:597][697]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.10-21.01.59:597][697]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.10-21.01.59:618][697]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.10-21.01.59:631][697]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.10-21.01.59:631][697]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.10-21.01.59:636][697]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.10-21.01.59:637][697]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.10-21.01.59:637][697]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.10-21.01.59:646][697]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.10-21.01.59:691][697]LogDerivedDataCache: Shutdown
+[2017.12.10-21.01.59:692][697]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.10-21.01.59:692][697]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.10-21.01.59:706][697]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.10-21.01.59:715][697]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.10-21.01.59:739][697]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.10-21.01.59:739][697]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.10-21.01.59:765][697]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.10-21.01.59:766][697]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.10-21.01.59:780][697]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.10-21.01.59:781][697]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.10-21.01.59:781][697]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.10-21.01.59:781][697]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.10-21.01.59:781][697]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.10-21.01.59:812][697]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.10-21.01.59:845][697]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.10-21.01.59:845][697]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.10-21.01.59:851][697]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B32901D7B-4007-D981-964D-848565BB0F56%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=7ad53a9343466efabb60e8842ff99f91%7Ca1a95fbf29854515a0dce33c1e56db4a%7C512f3732-0e92-4486-813f-3088730be3e0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.10-21.01.59:881][697]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.10-21.01.59:892][697]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.10-21.01.59:904][697]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.10-21.01.59:905][697]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.10-21.01.59:927][697]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.10-21.01.59:954][697]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.10-21.01.59:954][697]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.10-21.01.59:954][697]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.10-21.01.59:983][697]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.10-21.02.00:012][697]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.10-21.02.00:012][697]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.10-21.02.00:026][697]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.10-21.02.00:026][697]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.10-21.02.00:034][697]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.10-21.02.00:034][697]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.10-21.02.00:034][697]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.10-21.02.00:034][697]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.10-21.02.00:034][697]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.10-21.02.00:034][697]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.10-21.02.00:068][697]LogExit: Exiting.
+[2017.12.10-21.02.00:085][697]Log file closed, 12/10/17 15:02:00
